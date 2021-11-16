@@ -15,7 +15,7 @@
 
 ### Hola 👋 mi nombre es Nicolás, soy desarrollador y estudiante de Ingeniería en Informática.
 
-- 🔭 Actualemente trabajo en **Coderhouse**
+- 🔭 Actualmente trabajo en **Coderhouse**
 - 🌱 Me encuentro estudiando **React and Node**
 - :boy: <a href="https://drive.google.com/file/d/1QAswnfZfINM1xaDhSWR9suNnDMNnKH25/view?usp=sharing">**CV Online**</a>
 
