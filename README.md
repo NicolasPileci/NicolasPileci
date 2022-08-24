@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Coderhouse**
 - 🌱 I’m currently learning **React and Node**
-- :boy: <a href="https://drive.google.com/file/d/1QAswnfZfINM1xaDhSWR9suNnDMNnKH25/view?usp=sharing">**My online resume**</a>
+- :boy: <a href="https://drive.google.com/file/d/1wSFaLTouKtG0LonCWDKghJC77vVITfZI/view?usp=sharing">**My online resume**</a>
 
 ### You can contact me:
 
@@ -17,7 +17,7 @@
 
 - 🔭 Actualmente trabajo en **Coderhouse**
 - 🌱 Me encuentro estudiando **React and Node**
-- :boy: <a href="https://drive.google.com/file/d/1QAswnfZfINM1xaDhSWR9suNnDMNnKH25/view?usp=sharing">**CV Online**</a>
+- :boy: <a href="https://drive.google.com/file/d/1wSFaLTouKtG0LonCWDKghJC77vVITfZI/view?usp=sharing">**CV Online**</a>
 
 ### Podes contactarme:
 
